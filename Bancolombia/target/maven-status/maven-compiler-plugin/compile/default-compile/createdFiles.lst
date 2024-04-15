@@ -1,0 +1,10 @@
+com\Bancolombia\Bancolombia\servicio\impl\CuentaServiceImpl.class
+com\Bancolombia\Bancolombia\repositorio\CuentaRepository.class
+com\Bancolombia\Bancolombia\BancolombiaApplication.class
+com\Bancolombia\Bancolombia\servicio\CuentaService.class
+com\Bancolombia\Bancolombia\repositorio\MovimientoRepository.class
+com\Bancolombia\Bancolombia\servicio\impl\MovimientoServiceImpl.class
+com\Bancolombia\Bancolombia\Controlador\CuentaController.class
+com\Bancolombia\Bancolombia\modelo\Cuenta.class
+com\Bancolombia\Bancolombia\modelo\Movimiento.class
+com\Bancolombia\Bancolombia\servicio\MovimientoService.class
